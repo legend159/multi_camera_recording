@@ -1,20 +1,11 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 29 14:08:24 2023
-
-@author: user012
-"""
 
 # -*- coding: utf-8 -*-
 """
 Created on Mon Dec 25 16:26:52 2023
 
-@author: user012
+@author: legend159
 """
 
-"""A simple example of capturing and displaying an image
-"""
-import EasyPySpin
 import cv2
 
 cam_index = 0
